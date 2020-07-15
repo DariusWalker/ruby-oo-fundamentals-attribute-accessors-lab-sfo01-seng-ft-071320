@@ -5,7 +5,10 @@ end
  def meow
    meow = "meow"
  end 
-end 
+ 
+ maru = cat.new 
+ maru.name = "Maru"
+ 
 
  
  
